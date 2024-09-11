@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidianMd-compiler",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Compile md notes of obsidian to another md files better to share.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

@@ -1,10 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidianMd-compiler",
+	"name": "obsidianMd-compiler",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
+	"description": "Compile md notes of obsidian to another md files better to share.",
+	"author": "qql2",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
